@@ -1,0 +1,14 @@
+body::-webkit-scrollbar{
+  display: none;
+}
+* {
+  margin: 0;
+}
+
+html {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+body {
+  margin: 0;
+}
